@@ -1,2 +1,2 @@
 let titulo = document.querySelector("h1")
-titulo.innerHTML = "Desafios: Utilizando Git na IDE"
+titulo.innerHTML = "Desafios"
